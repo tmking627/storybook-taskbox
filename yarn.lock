@@ -5707,6 +5707,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"chromatic@npm:^9.1.0":
+  version: 9.1.0
+  resolution: "chromatic@npm:9.1.0"
+  bin:
+    chroma: dist/bin.js
+    chromatic: dist/bin.js
+    chromatic-cli: dist/bin.js
+  checksum: 489bd578e7b9cf9f9e82f08d7197f9702b2177752aa252f36a4baf8f021bda2e3c08d70e700758af8cc3d25b7f2f5c2c93af51ff54f7a3e0a4a580c0182da746
+  languageName: node
+  linkType: hard
+
 "ci-info@npm:^3.2.0":
   version: 3.9.0
   resolution: "ci-info@npm:3.9.0"
@@ -7809,6 +7820,7 @@ __metadata:
     "@types/react": "npm:^18.0.28"
     "@types/react-dom": "npm:^18.0.11"
     "@vitejs/plugin-react": "npm:^3.1.0"
+    chromatic: "npm:^9.1.0"
     msw: "npm:^1.2.1"
     msw-storybook-addon: "npm:^1.10.0"
     playwright: "npm:^1.40.1"
